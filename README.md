@@ -7,7 +7,7 @@ Welcome to my personal portfolio! This repository showcases my web development s
 
 ## 💻Preview
 
-👉 Check out the live preview [here]((https://lottoshy.github.io/resume-responsive/src/index.html)).
+👉 Check out the live preview [here](https://lottoshy.github.io/resume-responsive/src/index.html).
 
 
 ## 🗂️Table of Contents
